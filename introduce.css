@@ -1,5 +1,6 @@
 h1 {
     color: red;
+    text-align: center;
 }
 
 ul.picture {
@@ -20,4 +21,29 @@ ul.picture {
 li {
     align-items: center;
     justify-content: center;
+}
+
+.teacher {
+    display: flex;
+    padding-left: 89px;
+}
+
+.name {
+    padding-left: 100px;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+
+.icon {
+    text-align: end;
+}
+
+.introduce {
+
+    text-align: center;
+}
+
+.information {
+    font-weight: bold;
 }
